@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LearnConcurrency": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
